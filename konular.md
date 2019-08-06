@@ -19,4 +19,5 @@ ____
 - Tek Boyutlu Değişkenler ( DİZİLER )
 - Sıralama Algoritması
 - Matrisler
+- Fonksiyonlar
 - Dosya İşlemleri
