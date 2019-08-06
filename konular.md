@@ -4,7 +4,8 @@ ____
 - Algoritma Nedir ? Pseudo Kod Nedir ?
 - Akış Diyagramları
 - Algoritmada İşlem Operatörleri ( Aritmetik - Mantıksal İşlemciler )
-- Değer Aktarma / Değer Okuma ( Değişkenler )
+- Veri Yapıları
+- Değer Aktarma / Değer Okuma
 - Koşullu İfadeler ( İf - Then / if - Then - Else )
 - Koşullu İfadeler  ( Go to Komutu )
 - Case - And Case Yapısı
