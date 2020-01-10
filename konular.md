@@ -21,3 +21,4 @@ ____
 - Matrisler
 - Fonksiyonlar
 - Dosya İşlemleri
+- Algoritma Karmaşılığı Nedir?
